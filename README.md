@@ -1,3 +1,8 @@
+# Archived project. No maintenance.
+
+This project is not maintained anymore and is archived. Feel free to fork and
+make your own changes if needed.
+
 # go-bits
 
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/talal/go-bits)
