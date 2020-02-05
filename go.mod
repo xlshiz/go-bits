@@ -1,3 +1,3 @@
-module github.com/talal/go-bits
+module github.com/xlshiz/go-bits
 
 go 1.12

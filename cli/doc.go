@@ -8,7 +8,7 @@ main.go:
 	package main
 
 	import "github.com/myapp/commands"
-	import "github.com/talal/go-bits/cli"
+	import "github.com/xlshiz/go-bits/cli"
 
 	var commandRegistry = make(cli.CommandRegistry)
 
@@ -40,7 +40,7 @@ main.go:
 commands/cmdone.go:
 	package commands
 
-	import "github.com/talal/go-bits/cli"
+	import "github.com/xlshiz/go-bits/cli"
 
 	var CmdOne = makeCmdOne()
 
@@ -72,7 +72,7 @@ commands/cmdone.go:
 commands/cmdtwo.go:
 	package commands
 
-	import "github.com/talal/go-bits/cli"
+	import "github.com/xlshiz/go-bits/cli"
 
 	var CmdTwo = makeCmdTwo()
 
